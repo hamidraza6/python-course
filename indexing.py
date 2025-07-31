@@ -1,0 +1,9 @@
+name="raza"
+index=name[0]
+print(index)
+index=name[1]
+print(index)
+index=name[2]
+print(index)
+index=name[3]
+print(index)
