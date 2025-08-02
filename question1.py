@@ -1,5 +1,13 @@
-first_name=input("enter your first name:")
-print("length of your name is",len(first_name))
-str="hi i am $ string $ "
-print(" no of time coming dollar $ sign in str ")
-print(str.count("$"))
+moves=[]
+mov1=input("enter first  move:")
+mov2=input("enter2nd move:")
+mov3=input("enter 3rd move:")
+moves.append(mov1)
+moves.append(mov2)
+moves.append(mov3)
+print(moves)
+
+#other way
+movess=[]
+movess.append(input("enter your three favorite moves :"))
+print(movess)

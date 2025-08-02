@@ -1,0 +1,10 @@
+num=[46,64,67,76,87,78,90]
+print(num[1:4])
+print(num[0:5])
+print(num[3:])
+print(num[5:])
+print("negative")
+print(num[-3:])
+print(num[-5:])
+print(num[:-3])
+print(num[:-5])
