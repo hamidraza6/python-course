@@ -1,7 +1,6 @@
-list=[2,3,3]
-copy_list=list.copy()
-copy_list.reverse()
-if(copy_list==list):
- print("palindrome")
-else:
- print("not palindrome")
+# print number from 100 to 1
+count=100
+while count>=1:
+    print(count)
+    count-=1
+    

@@ -1,4 +1,7 @@
-#write the program to count the number of students with the 'A'grade in the following tuple.
-#  ["C","D","A","A","B","B","A"]
-grade=("C","D","A","A","B","B","A")
-print(grade.count("A"))
+# print the multiplication table of a number
+n=int(input ("enter number"))
+i=1
+while i<=10:
+    print(n*i)
+    i+=1
+    
